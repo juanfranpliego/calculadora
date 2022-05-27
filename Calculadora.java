@@ -1,11 +1,11 @@
-/*
+///*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 package com.mycompany.calculadora;
 public class Calculadora {
-
+//comentario
    private int num1;
    private int num2;
    public Calculadora(int n1, int n2){
